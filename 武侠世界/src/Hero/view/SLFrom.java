@@ -34,8 +34,6 @@ public abstract class SLFrom extends JDialog{
 		this.setTitle("东山再起");
 		this.setSize(600,400); 
 		GUI.center(this);	
-		/*File s=new File("2.wav");
-		Playmusic.PlayMusic(s);*/
 		ImageIcon img=new ImageIcon("Images/存档框.png");
 		JLabel titleLabel=new JLabel(img);
 		titleLabel.setBounds(-1,-1,this.getWidth(),this.getHeight());

@@ -1,11 +1,7 @@
 package Hero.controller;
 
 import java.awt.Frame;
-
-import javax.swing.ImageIcon;
-
 import Hero.view.CheckFrom;
-import Hero.view.SLFrom;
 
 @SuppressWarnings("serial")
 public class CheckController extends CheckFrom{

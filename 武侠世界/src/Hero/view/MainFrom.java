@@ -78,18 +78,6 @@ private void mouseClicked() {
 	{
 
 		public void mouseClicked(MouseEvent e){
-			
-		/*	if(n>=0){
-				File s=new File("Musics/受伤.wav");
-				Playmusic.PlayMusic(s);	
-			 xt.setBounds(84,31,n,14);
-			 n=n-12;
-			}
-			else{
-				jl1.setVisible(false);
-				JOptionPane.showConfirmDialog(null, "胜败乃兵家常事，请大侠重新来过！", "失败", JOptionPane.CLOSED_OPTION);
-			
-		}*/
 			showCheckFrom();
 		}
 		

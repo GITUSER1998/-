@@ -93,7 +93,7 @@ private void CheckInformation() {
 	
 	case 5:{
 		lb1.setText("即便为此");
-		r1.setText("苟富贵，勿相忘");
+		r1.setText("兄弟然皆不顾");
 		r2.setText("舞剑器动四方");
 		r3.setText("采菊东篱下");
 	    img3.getImage().flush();
